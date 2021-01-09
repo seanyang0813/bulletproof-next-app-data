@@ -14,5 +14,13 @@
     "content": "Hello comment",
     "createdAt": 1610225742795,
     "id": "ucEEPqNMUOuub4UPMUoP6MG4PA5k2w"
+  },
+  {
+    "userId": "github-32753704",
+    "name": null,
+    "avatar": "https://avatars2.githubusercontent.com/u/32753704?v=4",
+    "content": "test",
+    "createdAt": 1610226129956,
+    "id": "mlDcV3vRYGGZ8CmScfSWzqtmYPrayb"
   }
 ]
